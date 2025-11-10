@@ -1,0 +1,5 @@
+{
+  "name": "Active Campaign workflow analyzer demo",
+  "description": "An application that takes messy workflow descriptions and uses AI to generate a clear, actionable transformation plan for Active Campaign users, including a process map, bottleneck analysis, and AI opportunities.",
+  "requestFramePermissions": []
+}
